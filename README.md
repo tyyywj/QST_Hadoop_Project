@@ -67,6 +67,8 @@
 4. 统计每类网页的跳转率。
 5. 统计每天从baidu跳转过来的PV
 6. 统计每天iOS和Android的UV数
+7. 统计每天各个省份的UV数量（可以使用`https://www.juhe.cn/docs/api/id/1` 来获取IP的地域信息）
+8. 统计每天每个省份访问的show的Top-5（按照UV量）
 
 
 实时的查询服务需求：
